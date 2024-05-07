@@ -1,7 +1,5 @@
 
 ## Olá! Eu sou Artur Loreto 👋<br>
-- 👔 Hoje trabalho com aplicações full-stack
-- 📚 Estudando TensorFlow e Machine Learning
 
   <div style="display:inline-block">
     <a href="https://github.com/Loreto1306">
