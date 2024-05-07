@@ -3,14 +3,14 @@
 - 👔 Hoje trabalho com aplicações full-stack
 - 📚 Estudando TensorFlow e Machine Learning
 
-  <div>
+  <div style="display:inline-block">
     <a href="https://github.com/Loreto1306">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Loreto1306&show_icons=true&theme=cobalt"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loreto1306&layout=compact&theme=cobalt"/>
   </div>
 </a>
 
-<div><br>
+<div style="display:inline-block"><br>
   <img align="center" alt="Artur-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Artur-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   <img align="center" alt="Artur-python3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
