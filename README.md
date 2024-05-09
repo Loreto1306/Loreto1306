@@ -8,7 +8,7 @@
   </div>
 </a>
 
-<div style="align-items: center;display: flex;justify-content: center;"><br>
+<div style="align-items: center;display: inline-flex;justify-content: center;"><br>
           
     
   <img align="center" alt="Artur-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
