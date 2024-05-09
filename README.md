@@ -8,7 +8,9 @@
   </div>
 </a>
 
-<div style="display:inline-block"><br>
+<div style="align-items: center;
+    display: flex;
+    justify-content: center;"><br>
   <img align="center" alt="Artur-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Artur-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   <img align="center" alt="Artur-python3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
