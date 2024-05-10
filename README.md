@@ -4,9 +4,8 @@
   <div style="display:inline-block">
     <a href="https://github.com/Loreto1306">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Loreto1306&show_icons=true&theme=cobalt"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loreto1306&layout=compact&theme=cobalt"/>
-      
+    </a>  
   </div>
-</a>
 
 <div style="align-items: center;display: inline-flex;justify-content: center;"><br>
           
@@ -28,7 +27,7 @@
 ##
 
 <div>
-  <a href="http://linkedin.com/in/artur-loreto" target="_blank">
+  <a href="https://linkedin.com/in/artur-loreto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
