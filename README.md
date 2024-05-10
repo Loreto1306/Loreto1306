@@ -32,5 +32,5 @@
   </a>
 </div>
 
-_generated with [Platane/snk](https://github.com/Loreto1306/snk)_
+_generated with [Platane/snk](https://github.com/Loreto1306/Loreto1306/snk)_
 
