@@ -40,5 +40,5 @@
 
 
 
-_generated with [Platane/snk](https://github.com/Loreto1306/Loreto1306/snk)_
+![Platane/snk](https://github.com/Loreto1306/Loreto1306/snk)
 
