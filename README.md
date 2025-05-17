@@ -1,5 +1,5 @@
 
-## Olá! Eu sou Artur Loreto 👋<br>
+## Hello! I'm Artur Loreto 👋<br>
 
   <div style="display:inline-block">
     <a href="https://github.com/Loreto1306">
